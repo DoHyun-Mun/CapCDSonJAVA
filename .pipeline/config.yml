@@ -31,7 +31,7 @@ steps:
 
 ### General project setup
 #general:
-  inferBuildTool: true
+#  inferBuildTool: true
 
 ### Step-specific configuration
 #steps:
