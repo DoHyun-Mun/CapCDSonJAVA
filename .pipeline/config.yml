@@ -24,8 +24,8 @@ steps:
   tmsUpload:
     credentialsId: 'tmscicd'
     nodeName: 'Pre-PRD'
-    mtaPath: 'com-sap-demo-smarttableforjenkins.mtar'
-    customDescription: 'Smart Table For Jenkins TMS Upload'
+    mtaPath: 'CDSMTA_Test.mtar'
+    customDescription: 'CAP CDS on JAVA Test Project'
 
 
 
